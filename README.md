@@ -3,5 +3,5 @@
 
 Steps:
 1. clone project and import as maven project
-2. copy chrome webdriver to folder C:/opt/webdriver/chromedriver.exe
+2. Replace chromedriver with the latest version that's comparable with your browser
 3. run 'mvn clean install'
